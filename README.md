@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Java and Android Development.
 - 🌱 I’m currently playing with android studio.
-<br />-:computer: Languages: C, C++, Java
+- :computer: Languages: C, C++, Java
 - 👯 I’m looking to collaborate on Android Apps Development.
 - 📫 How to reach me: https://twitter.com/khushal_25
 - ⚡ Fun fact: Fun!
