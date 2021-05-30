@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://twitter.com/khushal_25
 - ⚡ Fun fact: I am learning C, C++, Java and Android Development simultaneously!
 
-![image](https://user-images.githubusercontent.com/68191677/120099218-09c32980-c158-11eb-8231-5e5b43b586b6.png)   ![image](https://user-images.githubusercontent.com/68191677/120099233-1a739f80-c158-11eb-8a39-fc5b4c109c14.png)
-![image](https://user-images.githubusercontent.com/68191677/120099245-265f6180-c158-11eb-8c7a-2d61f9dcf24b.png)   ![image](https://user-images.githubusercontent.com/68191677/120099267-35deaa80-c158-11eb-8dcd-e21cbad9b55b.png)
+![image](https://user-images.githubusercontent.com/68191677/120099218-09c32980-c158-11eb-8231-5e5b43b586b6.png)&nbsp; &nbsp; ![image](https://user-images.githubusercontent.com/68191677/120099233-1a739f80-c158-11eb-8a39-fc5b4c109c14.png)<br />
+![image](https://user-images.githubusercontent.com/68191677/120099245-265f6180-c158-11eb-8c7a-2d61f9dcf24b.png)&nbsp; &nbsp; ![image](https://user-images.githubusercontent.com/68191677/120099267-35deaa80-c158-11eb-8dcd-e21cbad9b55b.png)<br />
