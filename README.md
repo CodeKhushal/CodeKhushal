@@ -4,8 +4,7 @@
  <br/>
  &nbsp;
  <p>
- <img align="left" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
-<img align="right" src="https://user-images.githubusercontent.com/46247882/87126810-77e5d000-c2aa-11ea-832f-70aa4fe394f9.gif" alt="alt text" width="150" height="150" />
+ <img align="center" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
 <p/>
  &nbsp;
  &nbsp;
