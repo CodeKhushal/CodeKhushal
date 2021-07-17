@@ -14,8 +14,9 @@
  - 📫 Mail:- khushalsachdeva22@gmail.com
  - ⚡ Fun fact: Fun!
 
+ 
  <p>
- <img align="center" src="https://user-images.githubusercontent.com/68191677/120099245-265f6180-c158-11eb-8c7a-2d61f9dcf24b.png" width="400px" />
+ &nbsp;&nbsp;<img align="center" src="https://user-images.githubusercontent.com/68191677/120099245-265f6180-c158-11eb-8c7a-2d61f9dcf24b.png" width="400px" />&nbsp;&nbsp;
   <img align="center" src="https://user-images.githubusercontent.com/68191677/120099267-35deaa80-c158-11eb-8dcd-e21cbad9b55b.png" width="400px" />
 <p/>
  <!--
