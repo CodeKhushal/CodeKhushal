@@ -17,12 +17,9 @@
  <p align="center">
 <img src="https://user-images.githubusercontent.com/46247882/87126810-77e5d000-c2aa-11ea-832f-70aa4fe394f9.gif" alt="alt text" width="150" height="150" />
 </p>
- <br>
-<hr>
- 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeKhushal&layout=compact(https://github.com/CodeKhushal/github-readme-stats)"/>
-
-<br />
+ </p>
  
 <br>
 <hr>
