@@ -6,16 +6,16 @@
 <p/>
   <h1/>
  &nbsp;
- &nbsp;
  <br>
-- 🔭 I’m currently working on Java and Android Development.
-- :computer: Languages: C, C++, Java
-- 👯 I’m looking to collaborate on Android Apps Development.
-- 📫 How to reach me: https://twitter.com/khushal_25
-- ⚡ Fun fact: Fun!
+ - 🔭 I’m currently working on Java and Android Development.
+ - :computer: Languages: C, C++, Java
+ - 👯 I’m looking to collaborate on Android Apps Development.
+ - 📫 How to reach me: https://twitter.com/khushal_25
+ - ⚡ Fun fact: Fun!
 <br/>
 <br>![image](https://user-images.githubusercontent.com/68191677/120099245-265f6180-c158-11eb-8c7a-2d61f9dcf24b.png)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![image](https://user-images.githubusercontent.com/68191677/120099267-35deaa80-c158-11eb-8dcd-e21cbad9b55b.png)
-
+<br/>
+ <br>
 <hr>
 
 |<img src="https://github-readme-stats.vercel.app/api?username=CodeKhushal&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeKhushal"/>|
