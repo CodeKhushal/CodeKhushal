@@ -2,9 +2,9 @@
 <h1 align="center"><a href="www.linkedin.com/in/khushal-sachdeva-25072002"></a><img src="https://img.shields.io/badge/-Khushal Sachdeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/khushal-sachdeva-25072002"/> &nbsp;&nbsp;CodeKhushal &nbsp;&nbsp;
  
   <h1/>
- <br>
- <img align="center" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
-  <br/>
+<p align="center">
+ <img alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
+  <p/>
  &nbsp;
 
  - 🔭 I’m currently working on Java and Android Development.
