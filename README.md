@@ -11,7 +11,7 @@
  - :computer: Languages: C, C++, Java
  - 👯 I’m looking to collaborate on Android Apps Development.
  - 📫 How to reach me: https://twitter.com/khushal_25
- - 📫 Mail:- [Gmail]<a href="mailto:khushalsachdeva22@gmail.com"></a><img src="https://img.shields.io/badge/-khushalsachdeva22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khushalsachdeva22@gmail.com"/>
+ - 📫 Mail:- khushalsachdeva22@gmail.com
  - ⚡ Fun fact: Fun!
 
  <p align="center">
