@@ -1,6 +1,7 @@
-## Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+# Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 <br>
 <h1 align="center"><a href="www.linkedin.com/in/khushal-sachdeva-25072002"></a><img src="https://img.shields.io/badge/-Khushal Sachdeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/khushal-sachdeva-25072002"/> &nbsp;&nbsp;CodeKhushal &nbsp;&nbsp;<a href="mailto:khushalsachdeva22@gmail.com"></a>
+ <h1/>
  <br/>
  &nbsp;
  <p>
