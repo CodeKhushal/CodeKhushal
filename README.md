@@ -20,9 +20,10 @@
  <br>
 <hr>
  
-|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeKhushal&layout=compact)](https://github.com/CodeKhushal/github-readme-stats)"/>|
+|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeKhushal&layout=compact(https://github.com/CodeKhushal/github-readme-stats)"/>|
 |---|---|
 <br />
+ 
 <br>
 <hr>
  
