@@ -6,7 +6,8 @@
 </p>
 <br>
 <h1 align="center"><a href="www.linkedin.com/in/khushal-sachdeva-25072002"></a><img src="https://img.shields.io/badge/-Khushal Sachdeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/khushal-sachdeva-25072002"/> &nbsp;&nbsp;CodeKhushal &nbsp;&nbsp;<a href="mailto:khushalsachdeva22@gmail.com"></a>
- 
+ </br>
+ <br>
  - 🔭 I’m currently working on Java and Android Development.
 - 🌱 Currently playing with android studio.
 - :computer: Languages: C, C++, Java
