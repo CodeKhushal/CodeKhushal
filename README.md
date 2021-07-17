@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://twitter.com/khushal_25
 - ⚡ Fun fact: Fun!
 
-<br />![image](https://user-images.githubusercontent.com/68191677/120099245-265f6180-c158-11eb-8c7a-2d61f9dcf24b.png)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![image](https://user-images.githubusercontent.com/68191677/120099267-35deaa80-c158-11eb-8dcd-e21cbad9b55b.png)<br />
+<br>![image](https://user-images.githubusercontent.com/68191677/120099245-265f6180-c158-11eb-8c7a-2d61f9dcf24b.png)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![image](https://user-images.githubusercontent.com/68191677/120099267-35deaa80-c158-11eb-8dcd-e21cbad9b55b.png)
+<br>![image](https://user-images.githubusercontent.com/68191677/126047011-88d3a0a3-5eed-43ba-bdc3-b656969632a3.png)
+<br />
