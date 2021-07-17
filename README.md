@@ -20,7 +20,13 @@
  <br>
 <hr>
  
-|<img src="https://github-readme-stats.vercel.app/api?username=CodeKhushal&show_icons=true&count_private=true&theme=radical&langs_count=3"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeKhushal&theme=radical"/>|
+|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeKhushal&layout=compact)](https://github.com/CodeKhushal/github-readme-stats)"/>|
+|---|---|
+<br />
+<br>
+<hr>
+ 
+|<img src="https://github-readme-stats.vercel.app/api?username=CodeKhushal&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeKhushal&theme=radical"/>|
 |---|---|
 <br />
 <!--
