@@ -1,7 +1,7 @@
 # Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
-<h1 align="center"><a href="https://www.linkedin.com/in/khushal-sachdeva-25072002"></a><img src="https://img.shields.io/badge/-Khushal Sachdeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushal-sachdeva-25072002"/> &nbsp;&nbsp;Khushal Sachdeva &nbsp;&nbsp;
+<h1 align="center"><a href="https://www.linkedin.com/in/khushal-sachdeva-25072002?"></a><img src="https://img.shields.io/badge/-Khushal Sachdeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushal-sachdeva-25072002?"/> &nbsp;&nbsp;Khushal Sachdeva &nbsp;&nbsp;<h1/>
  
-  <h1/>
+
 <p align="center">
  <img alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
   <p/>
@@ -11,7 +11,7 @@
  - :computer: Languages: C, C++, Java
  - 👯 I’m looking to collaborate on Android Apps Development.
  - 📫 How to reach me: https://twitter.com/khushal_25
- - 📫 Mail:- <a href="mailto:khushalsachdeva22@gmail.com"></a><img src="https://img.shields.io/badge/-khushalsachdeva22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khushalsachdeva22@gmail.com"/>
+ - 📫 Mail:- <h1><a href="mailto:khushalsachdeva22@gmail.com"></a><img src="https://img.shields.io/badge/-khushalsachdeva22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khushalsachdeva22@gmail.com"/></h1>
  - ⚡ Fun fact: Fun!
 
  <p align="center">
