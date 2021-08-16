@@ -1,5 +1,4 @@
 # Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=CodeKhushal&label=Profile%20views&color=129e00&style=plastic" alt="CodeKhushal" /> </p>
 <h1 align="center"><a href="https://www.linkedin.com/in/khushal-sachdeva-25072002?"></a><img src="https://img.shields.io/badge/-Khushal Sachdeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushal-sachdeva-25072002?"/> &nbsp;&nbsp;Khushal Sachdeva &nbsp;&nbsp;<h1/>
  
 
@@ -28,6 +27,7 @@
 |<img src="https://github-readme-stats.vercel.app/api?username=CodeKhushal&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeKhushal&theme=radical"/>|
 |---|---|
 <br />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CodeKhushal&label=Profile%20views&color=129e00&style=plastic" alt="CodeKhushal" /> </p>
 <!--
 **CodeKhushal/CodeKhushal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
