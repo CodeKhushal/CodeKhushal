@@ -3,6 +3,7 @@
 <p align="center">
  <img alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
   <p/>
+  
  <h2 align="center">Reach out to me on </h2>
 <div align="center">
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CodeKhushal) 
