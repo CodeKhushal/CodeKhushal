@@ -1,4 +1,4 @@
-# Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+<h1 align="center"> # Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">, I'm Khushal Sachdeva</h1>
 <h1 align="center"><a href="https://www.linkedin.com/in/khushal-sachdeva-25072002?"></a><img src="https://img.shields.io/badge/-Khushal Sachdeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushal-sachdeva-25072002?"/> &nbsp;&nbsp;Khushal Sachdeva &nbsp;&nbsp;<h1/>
  
 
@@ -42,5 +42,6 @@ Here are some ideas to get you started:
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://user-images.githubusercontent.com/68191677/120099245-265f6180-c158-11eb-8c7a-2d61f9dcf24b.png" width="400px" />&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://user-images.githubusercontent.com/68191677/120099267-35deaa80-c158-11eb-8dcd-e21cbad9b55b.png" width="400px" />
 <p/>
+# Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">  
 -->
 
