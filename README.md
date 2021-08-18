@@ -1,15 +1,10 @@
 <h1 align="center"> Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">, I'm Khushal Sachdeva</h1>
-<h1 align="center"><a href="https://www.linkedin.com/in/khushal-sachdeva-25072002?"></a><img src="https://img.shields.io/badge/-Khushal Sachdeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushal-sachdeva-25072002?"/> &nbsp;&nbsp;Khushal Sachdeva &nbsp;&nbsp;<h1/>
- 
 
 <p align="center">
  <img alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
   <p/>
- &nbsp;
  <h2 align="center">Reach out to me on </h2>
-
 <div align="center">
-
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CodeKhushal) 
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/khushal-sachdeva-25072002/) 
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_khushal_sachdeva_/) 
@@ -52,5 +47,6 @@ Here are some ideas to get you started:
 <p/>
 # Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">  
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>](https://pirogrammer1.blogspot.com)
+<h1 align="center"><a href="https://www.linkedin.com/in/khushal-sachdeva-25072002?"></a><img src="https://img.shields.io/badge/-Khushal Sachdeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushal-sachdeva-25072002?"/> &nbsp;&nbsp;Khushal Sachdeva &nbsp;&nbsp;<h1/>
 -->
 
