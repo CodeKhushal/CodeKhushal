@@ -39,7 +39,7 @@
 <div align="center">
      
      
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=siddhi-244&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=CodeKhushal&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CodeKhushal&label=Profile%20views&color=129e00&style=plastic" alt="CodeKhushal" /> </p>
 
