@@ -24,13 +24,26 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeKhushal&layout=compact(https://github.com/CodeKhushal/github-readme-stats)"/>
  </p>
  
+ <h2 align="center">Trophies</h2>
+<div align="center">
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=CodeKhushal)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
 <br>
 <hr>
  
 |<img src="https://github-readme-stats.vercel.app/api?username=CodeKhushal&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeKhushal&theme=radical"/>|
 |---|---|
 <br />
+<div align="center">
+     
+     
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=siddhi-244&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+</div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CodeKhushal&label=Profile%20views&color=129e00&style=plastic" alt="CodeKhushal" /> </p>
+
+
 <!--
 **CodeKhushal/CodeKhushal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -50,4 +63,3 @@ Here are some ideas to get you started:
 <h1 align="center"><a href="https://www.linkedin.com/in/khushal-sachdeva-25072002?"></a><img src="https://img.shields.io/badge/-Khushal Sachdeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushal-sachdeva-25072002?"/> &nbsp;&nbsp;Khushal Sachdeva &nbsp;&nbsp;<h1/>
  - 📫 How to reach me: https://twitter.com/khushal_25
 -->
-
