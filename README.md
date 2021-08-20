@@ -12,6 +12,9 @@
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_khushal_sachdeva_/) 
 </div>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="khushal-sachdeva-25072002" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/khushal-sachdeva-25072002?trk=profile-badge">Khushal Sachdeva</a></div>
+              
  - 🔭 I’m currently working on Java and Android Development.
  - :computer: Languages: C, C++, Java
  - 📫 Mail:- khushalsachdeva22@gmail.com
