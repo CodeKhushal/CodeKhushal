@@ -1,4 +1,4 @@
-<h1 align="center"> Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">, I'm Khushal Sachdeva</h1>
+<h1 align="center"> Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">, I'm <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="khushal-sachdeva-25072002" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/khushal-sachdeva-25072002?trk=profile-badge">Khushal Sachdeva</a></div></h1>
 <p align="center">
  <img alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
   <p/>
@@ -12,8 +12,6 @@
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_khushal_sachdeva_/) 
 </div>
 
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="khushal-sachdeva-25072002" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/khushal-sachdeva-25072002?trk=profile-badge">Khushal Sachdeva</a></div>
               
  - 🔭 I’m currently working on Java and Android Development.
  - :computer: Languages: C, C++, Java
