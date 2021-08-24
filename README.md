@@ -33,7 +33,7 @@
  <tr>
   <td align="center" width="20%">
 <span><b><center>C</center></b></span> 
-<img height=60px src="https://user-images.githubusercontent.com/68191677/130677490-8a88c530-eee3-4ccd-ad03-2ae8cd46ad4b.png"> 
+<img height=60px src="https://user-images.githubusercontent.com/68191677/130678024-616363e5-2d50-45da-a7aa-8d12ee3d72fc.png"> 
 </td>
   
   <td align="center" width="20%">
@@ -43,7 +43,7 @@
   
   <td align="center" width="20%">
 <span><b><center>Java</center></b></span> 
-<img height=60px src="https://user-images.githubusercontent.com/68191677/130677556-f60364b8-7a19-4ec9-88c0-0c43d0ad52bb.png"> 
+<img height=60px src="https://user-images.githubusercontent.com/68191677/130677909-e76c9cea-308c-4476-b73b-855ee5518bbc.png"> 
 </td>
   
   <td align="center" width="20%">
@@ -66,7 +66,7 @@
  
 <td align="center" width="20%">
 <span><b><center>Linux</center></b></span> 
-<img height=65px src="https://user-images.githubusercontent.com/68191677/130677637-4a48a503-b192-4364-b92c-741baa4e2338.png"> 
+<img height=65px src="https://user-images.githubusercontent.com/68191677/130678117-f2be7ac2-d2fc-4e70-9f78-33b0bbffeaa3.png"> 
 </td>
 </tr>
 </tbody>
