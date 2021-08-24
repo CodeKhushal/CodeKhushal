@@ -25,6 +25,53 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeKhushal&layout=compact(https://github.com/CodeKhushal/github-readme-stats)"/>
  </p>
  
+ ## Tech Stack :computer:
+
+<br>
+<table align="center">
+<tbody>
+ <tr>
+  <td align="center" width="20%">
+<span><b><center>C</center></b></span> 
+<img height=60px src="https://user-images.githubusercontent.com/68191677/130677003-72a74d21-0f70-4d25-9fb2-34873713df78.png"> 
+</td>
+  
+  <td align="center" width="20%">
+<span><b><center>C++</center></b></span> 
+<img height=65px src="https://user-images.githubusercontent.com/68191677/130677086-5c64b983-5942-47c9-ae70-96da7d794172.png"> 
+</td>
+  
+  <td align="center" width="20%">
+<span><b><center>Java</center></b></span> 
+<img height=60px src="https://cdn.worldvectorlogo.com/logos/java.svg"> 
+</td>
+  
+  <td align="center" width="20%">
+<span><b><center>Python</center></b></span> 
+<img height=65px src="https://cdn.worldvectorlogo.com/logos/python-5.svg"> 
+</td>
+  </tr>
+
+<tr>
+  
+  <td align="center" width="20%">
+<span><b><center>Visual Studio</center></b></span> 
+<img height=65px src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"> 
+</td>
+  
+  <td align="center" width="20%">
+<span><b><center>Git</center></b></span> 
+<img height=65px src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"> 
+</td>
+ 
+<td align="center" width="20%">
+<span><b><center>Linux</center></b></span> 
+<img height=65px src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg"> 
+</td>
+</tr>
+</tbody>
+</table>
+ 
  <h2 align="center">Trophies</h2>
 <div align="center">
     
