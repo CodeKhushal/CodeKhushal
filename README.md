@@ -12,11 +12,6 @@
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_khushal_sachdeva_/) 
 </div>
 
-              
- - 🔭 I’m currently working on Java and Android Development.
- - :computer: Languages: C, C++, Java
- - 📫 Mail:- khushalsachdeva22@gmail.com
- - ⚡ Fun fact: Fun!
 
  <p align="center">
 <img src="https://user-images.githubusercontent.com/46247882/87126810-77e5d000-c2aa-11ea-832f-70aa4fe394f9.gif" alt="alt text" width="150" height="150" />
@@ -71,12 +66,6 @@
 </tr>
 </tbody>
 </table>
- 
- <h2 align="center">Trophies</h2>
-<div align="center">
-    
-[![trophy](https://github-profile-trophy.vercel.app/?username=CodeKhushal)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
 
 <br>
 <hr>
@@ -109,5 +98,16 @@ Here are some ideas to get you started:
 # Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">  
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>](https://pirogrammer1.blogspot.com)
 <h1 align="center"><a href="https://www.linkedin.com/in/khushal-sachdeva-25072002?"></a><img src="https://img.shields.io/badge/-Khushal Sachdeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushal-sachdeva-25072002?"/> &nbsp;&nbsp;Khushal Sachdeva &nbsp;&nbsp;<h1/>
- - 📫 How to reach me: https://twitter.com/khushal_25
+
+ - 📫 How to reach me: https://twitter.com/khushal_25    
+ - 🔭 I’m currently working on Java and Android Development.
+ - :computer: Languages: C, C++, Java
+ - 📫 Mail:- khushalsachdeva22@gmail.com
+ - ⚡ Fun fact: Fun!
+ 
+ <h2 align="center">Trophies</h2>
+<div align="center">
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=CodeKhushal)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 -->
