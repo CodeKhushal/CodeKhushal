@@ -18,7 +18,10 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeKhushal&layout=compact(https://github.com/CodeKhushal/github-readme-stats)"/>
  </p>
- 
+
+
+## ⚡ Technologies
+
 ### Language :
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -48,12 +51,12 @@
 </table>
 
 ## 📈 Stats
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CodeKhushal&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeKhushal&theme=tokyonight" />
+</p>
 
-<hr>
-
-|<img src="https://github-readme-stats.vercel.app/api?username=CodeKhushal&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeKhushal&theme=radical"/>|
-|---|---|
-<br />
 <div align="center">
      
 [![Khushal's github activity graph](https://activity-graph.herokuapp.com/graph?username=CodeKhushal&theme=xcode)](https://git.io/CodeKhushal)
@@ -61,8 +64,6 @@
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CodeKhushal&label=Profile%20views&color=129e00&style=plastic" alt="CodeKhushal" /> 
 <img src="https://img.shields.io/github/stars/CodeKhushal" alt="Stars Badge"/></a></p>
-
-
 
 <!--
 **CodeKhushal/CodeKhushal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
