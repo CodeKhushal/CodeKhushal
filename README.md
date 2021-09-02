@@ -1,6 +1,6 @@
 <h1 align="center"> Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">, I'm <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="khushal-sachdeva-25072002" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/khushal-sachdeva-25072002?trk=profile-badge">Khushal Sachdeva</a></div><img src="https://user-images.githubusercontent.com/46247882/87126810-77e5d000-c2aa-11ea-832f-70aa4fe394f9.gif" alt="alt text" width="100" height="100" /></h1>
   
-## Reach out to me on
+<h2 align="center"> Reach out to me on <h2/>
 
 <div align="center">
  
