@@ -49,18 +49,18 @@
 </tr>
 </tbody>
 </table>
-
+### 📈 Stats
 <br>
 
 <hr>
- ## 📈 Stats
+
 |<img src="https://github-readme-stats.vercel.app/api?username=CodeKhushal&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeKhushal&theme=radical"/>|
 |---|---|
 <br />
 <div align="center">
      
 [![Khushal's github activity graph](https://activity-graph.herokuapp.com/graph?username=CodeKhushal&theme=xcode)](https://git.io/CodeKhushal)
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=CodeKhushal&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CodeKhushal&label=Profile%20views&color=129e00&style=plastic" alt="CodeKhushal" /> 
 <img src="https://img.shields.io/github/stars/CodeKhushal" alt="Stars Badge"/></a></p>
@@ -140,5 +140,5 @@ Here are some ideas to get you started:
 </tbody>
 </table>
 
-
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=CodeKhushal&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 -->
