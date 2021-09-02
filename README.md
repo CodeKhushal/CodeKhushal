@@ -66,8 +66,10 @@
 </tr>
 </tbody>
 </table>
+
 [![Khushal's github activity graph](https://activity-graph.herokuapp.com/graph?username=CodeKhushal&theme=xcode)](https://git.io/CodeKhushal)
 <br>
+
 <hr>
  
 |<img src="https://github-readme-stats.vercel.app/api?username=CodeKhushal&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeKhushal&theme=radical"/>|
