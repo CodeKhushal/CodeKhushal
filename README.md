@@ -20,7 +20,80 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeKhushal&layout=compact(https://github.com/CodeKhushal/github-readme-stats)"/>
  </p>
  
- ## Tech Stack :computer:
+
+### Language :
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+
+### Tech Stack :computer:
+<br>
+<table align="center">
+<tbody>
+<tr>
+  
+  <td align="center" width="20%">
+<span><b><center>Visual Studio</center></b></span> 
+<img height=65px src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"> 
+</td>
+  
+  <td align="center" width="20%">
+<span><b><center>Git</center></b></span> 
+<img height=65px src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"> 
+</td>
+ 
+<td align="center" width="20%">
+<span><b><center>Linux</center></b></span> 
+<img height=65px src="https://user-images.githubusercontent.com/68191677/130678117-f2be7ac2-d2fc-4e70-9f78-33b0bbffeaa3.png"> 
+</td>
+</tr>
+</tbody>
+</table>
+
+<br>
+
+<hr>
+ ## 📈 Stats
+|<img src="https://github-readme-stats.vercel.app/api?username=CodeKhushal&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeKhushal&theme=radical"/>|
+|---|---|
+<br />
+<div align="center">
+     
+[![Khushal's github activity graph](https://activity-graph.herokuapp.com/graph?username=CodeKhushal&theme=xcode)](https://git.io/CodeKhushal)
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=CodeKhushal&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CodeKhushal&label=Profile%20views&color=129e00&style=plastic" alt="CodeKhushal" /> 
+<img src="https://img.shields.io/github/stars/CodeKhushal" alt="Stars Badge"/></a></p>
+
+<!--
+**CodeKhushal/CodeKhushal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+- 😄 Pronouns: ...
+- 💬 Ask me about ...
+- 🤔 I’m looking for help with ...
+
+<br>![image](https://user-images.githubusercontent.com/68191677/120099245-265f6180-c158-11eb-8c7a-2d61f9dcf24b.png)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![image](https://user-images.githubusercontent.com/68191677/120099267-35deaa80-c158-11eb-8dcd-e21cbad9b55b.png)
+<br/>
+ <p>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://user-images.githubusercontent.com/68191677/120099245-265f6180-c158-11eb-8c7a-2d61f9dcf24b.png" width="400px" />&nbsp;&nbsp;&nbsp;
+  <img align="center" src="https://user-images.githubusercontent.com/68191677/120099267-35deaa80-c158-11eb-8dcd-e21cbad9b55b.png" width="400px" />
+<p/>
+# Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">  
+[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>](https://pirogrammer1.blogspot.com)
+<h1 align="center"><a href="https://www.linkedin.com/in/khushal-sachdeva-25072002?"></a><img src="https://img.shields.io/badge/-Khushal Sachdeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushal-sachdeva-25072002?"/> &nbsp;&nbsp;Khushal Sachdeva &nbsp;&nbsp;<h1/>
+
+ - 📫 How to reach me: https://twitter.com/khushal_25    
+ - 🔭 I’m currently working on Java and Android Development.
+ - :computer: Languages: C, C++, Java
+ - 📫 Mail:- khushalsachdeva22@gmail.com
+ - ⚡ Fun fact: Fun!
+ 
+ <h2 align="center">Trophies</h2>
+<div align="center">
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=CodeKhushal)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 <br>
 <table align="center">
@@ -67,49 +140,5 @@
 </tbody>
 </table>
 
-[![Khushal's github activity graph](https://activity-graph.herokuapp.com/graph?username=CodeKhushal&theme=xcode)](https://git.io/CodeKhushal)
-<br>
 
-<hr>
- 
-|<img src="https://github-readme-stats.vercel.app/api?username=CodeKhushal&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeKhushal&theme=radical"/>|
-|---|---|
-<br />
-<div align="center">
-     
-     
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=CodeKhushal&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
-</div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=CodeKhushal&label=Profile%20views&color=129e00&style=plastic" alt="CodeKhushal" /> 
-<img src="https://img.shields.io/github/stars/CodeKhushal" alt="Stars Badge"/></a></p>
-
-<!--
-**CodeKhushal/CodeKhushal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 😄 Pronouns: ...
-- 💬 Ask me about ...
-- 🤔 I’m looking for help with ...
-
-<br>![image](https://user-images.githubusercontent.com/68191677/120099245-265f6180-c158-11eb-8c7a-2d61f9dcf24b.png)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![image](https://user-images.githubusercontent.com/68191677/120099267-35deaa80-c158-11eb-8dcd-e21cbad9b55b.png)
-<br/>
- <p>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://user-images.githubusercontent.com/68191677/120099245-265f6180-c158-11eb-8c7a-2d61f9dcf24b.png" width="400px" />&nbsp;&nbsp;&nbsp;
-  <img align="center" src="https://user-images.githubusercontent.com/68191677/120099267-35deaa80-c158-11eb-8dcd-e21cbad9b55b.png" width="400px" />
-<p/>
-# Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">  
-[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>](https://pirogrammer1.blogspot.com)
-<h1 align="center"><a href="https://www.linkedin.com/in/khushal-sachdeva-25072002?"></a><img src="https://img.shields.io/badge/-Khushal Sachdeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushal-sachdeva-25072002?"/> &nbsp;&nbsp;Khushal Sachdeva &nbsp;&nbsp;<h1/>
-
- - 📫 How to reach me: https://twitter.com/khushal_25    
- - 🔭 I’m currently working on Java and Android Development.
- - :computer: Languages: C, C++, Java
- - 📫 Mail:- khushalsachdeva22@gmail.com
- - ⚡ Fun fact: Fun!
- 
- <h2 align="center">Trophies</h2>
-<div align="center">
-    
-[![trophy](https://github-profile-trophy.vercel.app/?username=CodeKhushal)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
 -->
