@@ -25,7 +25,6 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
 ### Tech Stack :computer:
-<br>
 <table align="center">
 <tbody>
 <tr>
@@ -49,8 +48,6 @@
 </table>
 
 ## 📈 Stats
-
-<br>
 
 <hr>
 
