@@ -79,8 +79,7 @@
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=CodeKhushal&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CodeKhushal&label=Profile%20views&color=129e00&style=plastic" alt="CodeKhushal" /> </p>
-<img src="https://sloc.xyz/github/CodeKhushal" alt="LOC"/> <a href="https://github.com/CodeKhushal"><img src="https://img.shields.io/github/stars/CodeKhushal" alt="Stars Badge"/></a>
-<a href="https://github.com/CodeKhushal"><img src="https://img.shields.io/github/forks/CodeKhushal" alt="Forks Badge"/></a>
+<img src="https://img.shields.io/github/stars/CodeKhushal" alt="Stars Badge"/></a>
 
 <!--
 **CodeKhushal/CodeKhushal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
