@@ -55,7 +55,7 @@
 
 <div align="center">
      
-[![Khushal's github activity graph](https://activity-graph.herokuapp.com/graph?username=CodeKhushal&theme=xcode)](https://git.io/CodeKhushal)
+<!-- [![Khushal's github activity graph](https://activity-graph.herokuapp.com/graph?username=CodeKhushal&theme=xcode)](https://git.io/CodeKhushal) -->
 
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CodeKhushal&label=Profile%20views&color=129e00&style=plastic" alt="CodeKhushal" /> 
