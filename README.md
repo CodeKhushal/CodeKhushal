@@ -17,6 +17,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript)
 
 ### Tech Stack :computer:
 <table align="center">
