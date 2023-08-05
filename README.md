@@ -1,66 +1,94 @@
-<h1 align="center"> Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">, I'm <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="khushal-sachdeva-25072002" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/khushal-sachdeva-25072002?trk=profile-badge">Khushal Sachdeva</a></div><img src="https://user-images.githubusercontent.com/46247882/87126810-77e5d000-c2aa-11ea-832f-70aa4fe394f9.gif" alt="alt text" width="100" height="100" /></h1>
-  
-<h2 align="center"> Reach out to me on <h2/>
-<div align="center">
+<h1 align="center">Hi 👋, I'm Khushal Sachdeva</h1>
+<h3 align="center">A CS undergrad at Delhi University, Web Developer and an Open-Source Contributor</h3>
 
-[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CodeKhushal) 
-[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/khushal-sachdeva-25072002/) 
-[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_khushal_sachdeva_/) 
-</div>
-<p align="center">
- <img alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="300px" />
-  <p/>
-  
-## ⚡ Technologies
+- 🔭 I’m currently working on **Market Place WebApp**
 
-### Language :
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript)
+- 🌱 I’m currently learning **React.Js**
 
-### Tech Stack :computer:
-<table align="center">
-<tbody>
-<tr>
-  
-  <td align="center" width="20%">
-<span><b><center>Visual Studio</center></b></span> 
-<img height=65px src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"> 
-</td>
-  
-  <td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"> 
-</td>
- 
-<td align="center" width="20%">
-<span><b><center>Linux</center></b></span> 
-<img height=65px src="https://user-images.githubusercontent.com/68191677/130678117-f2be7ac2-d2fc-4e70-9f78-33b0bbffeaa3.png"> 
-</td>
-</tr>
-</tbody>
-</table>
+- 👯 I’m looking to collaborate on **Open Source Projects, DSA Practicing**
 
-## 📈 Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeKhushal&layout=compact(https://github.com/CodeKhushal/github-readme-stats)"/>
- </p>
- 
-<p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CodeKhushal&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeKhushal&theme=tokyonight" />
+- 🤝 I’m looking for help with **Node.Js & MongoDB**
+
+- 💬 Ask me about **JavaScript, React.Js, C++, Data Structures**
+
+- 📫 How to reach me **work.khushalsachdeva@gmail.com**
+
+- ⚡ Fun fact **I like to play Table Tennis and roam around my city on my bicycle in my free time**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://www.linkedin.com/in/khushalsachdeva/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/unnati-chhabra-/" height="30" width="40" />
+    </a>
+    <a href="https://twitter.com/khushal_25" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unnati_twts" height="30" width="40" />
+    </a>
 </p>
 
-<div align="center">
-     
-<!-- [![Khushal's github activity graph](https://activity-graph.herokuapp.com/graph?username=CodeKhushal&theme=xcode)](https://git.io/CodeKhushal) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+    <a href="https://www.cprogramming.com/" target="_blank"> 
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a>  
+    <a href="https://react.dev/" target="_blank"> 
+        <img src="https://github.com/CodeKhushal/CodeKhushal/assets/68191677/0a505529-be0a-47ea-99c0-a401eda7a352" alt="javascript" width="40" height="40"/> 
+    </a>  
+    <a href="https://git-scm.com/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.java.com" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.linux.org/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.mysql.com/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    </a> 
+    <a href="https://nodejs.org" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.adobe.com/products/premiere.html" target="_blank"> 
+        <img src="https://github.com/CodeKhushal/CodeKhushal/assets/68191677/a39e6722-f29c-453c-b9dc-6a639b600101" alt="premiere pro" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.adobe.com/in/products/premiere-rush.html" target="_blank"> 
+        <img src="https://github.com/CodeKhushal/CodeKhushal/assets/68191677/3926390f-f12c-4f7c-a356-832bf985cbbb" alt="premiere pro" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.python.org" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a> 
+    <a href="https://developer.android.com" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+    </a> 
+</p>
 
-</div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=CodeKhushal&label=Profile%20views&color=129e00&style=plastic" alt="CodeKhushal" /> 
-<img src="https://img.shields.io/github/stars/CodeKhushal" alt="Stars Badge"/></a></p>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeKhushal&show_icons=true&locale=en&layout=compact" alt="CodeKhushal" />
+</p>
 
-<!--
-**CodeKhushal/CodeKhushal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeKhushal&show_icons=true&locale=en" alt="CodeKhushal" />
+</p>
+
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeKhushal&" alt="CodeKhushal" />
+</p>
+
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=CodeKhushal&label=Profile%20views&color=129e00&style=plastic" alt="CodeKhushal" />
+</p>
