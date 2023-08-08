@@ -17,12 +17,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/khushalsachdeva/" target="blank">
+    <a href="https://www.linkedin.com/in/khushalsachdeva/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khushalsachdeva/" height="30" width="40" />
     </a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/khushal_25" target="blank"><img src="https://img.shields.io/twitter/follow/khushal_25?logo=twitter&style=for-the-badge" alt="khushal_25" /></a> </p>
+<p align="left"> <a href="https://twitter.com/khushal_25" target="_blank"><img src="https://img.shields.io/twitter/follow/khushal_25?logo=twitter&style=for-the-badge" alt="khushal_25" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
