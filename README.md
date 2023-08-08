@@ -18,12 +18,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/khushalsachdeva/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/unnati-chhabra-/" height="30" width="40" />
-    </a>
-    <a href="https://twitter.com/khushal_25" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unnati_twts" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khushalsachdeva/" height="30" width="40" />
     </a>
 </p>
+
+<p align="left"> <a href="https://twitter.com/khushal_25" target="blank"><img src="https://img.shields.io/twitter/follow/khushal_25?logo=twitter&style=for-the-badge" alt="khushal_25" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -77,15 +76,14 @@
     </a> 
 </p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeKhushal&show_icons=true&locale=en&layout=compact" alt="CodeKhushal" />
-&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=CodeKhushal&show_icons=true&locale=en" alt="CodeKhushal" />
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codekhushal" alt="codekhushal" /></a> </p>
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeKhushal&" alt="CodeKhushal" />
-</p>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codekhushal&show_icons=true&locale=en&layout=compact" alt="codekhushal" />
+    
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=codekhushal&show_icons=true&locale=en" alt="codekhushal" /></p>
+
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codekhushal&" alt="codekhushal" /></p>
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=CodeKhushal&label=Profile%20views&color=129e00&style=plastic" alt="CodeKhushal" />
