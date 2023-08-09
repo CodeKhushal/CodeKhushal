@@ -80,10 +80,10 @@
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codekhushal&show_icons=true&locale=en&layout=compact" alt="codekhushal" />
-    
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=codekhushal&show_icons=true&locale=en" alt="codekhushal" /></p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=codekhushal&show_icons=true&locale=en" alt="codekhushal" />
+</p>
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codekhushal&" alt="codekhushal" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codekhushal" alt="codekhushal" /></p>
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=CodeKhushal&label=Profile%20views&color=129e00&style=plastic" alt="CodeKhushal" />
