@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushal Sachdeva</h1>
 <h3 align="center">A CS undergrad at Delhi University, Web Developer and an Open-Source Contributor</h3>
 
-- 🔭 I’m currently working on **Market Place WebApp**
+- 🔭 Building <a href ="https://fusionsync.vercel.app/" target="_blank">**FusionSync**</a>
 
 - 🌱 I’m currently learning **React.Js**
 
