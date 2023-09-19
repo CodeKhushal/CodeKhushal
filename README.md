@@ -3,11 +3,11 @@
 
 - 🔭 Building <a href ="https://fusionsync.vercel.app/" target="_blank">**FusionSync**</a>
 
-- 🌱 I’m currently learning **React.Js**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **Open Source Projects, DSA Practicing**
 
-- 🤝 I’m looking for help with **Node.Js & MongoDB**
+- 🤝 I’m looking for help with **Supabase for BaaS**
 
 - 💬 Ask me about **JavaScript, React.Js, C++, Data Structures**
 
