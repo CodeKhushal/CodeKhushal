@@ -1,15 +1,4 @@
 <h1 align="center">Hi 👋, I'm Khushal Sachdeva</h1>
-<h3 align="center">A CS undergrad at Delhi University, Web Developer and an Open-Source Contributor</h3>
-
-- 🔭 Building <a href ="https://fusionsync.vercel.app/" target="_blank">**FusionSync**</a>
-
-- 🌱 I’m currently learning **MERN**
-
-- 👯 I’m looking to collaborate on **Open Source Projects, DSA Practicing**
-
-- 🤝 I’m looking for help with **Supabase for BaaS**
-
-- 💬 Ask me about **JavaScript, React.Js, C++, Data Structures**
 
 - 📫 How to reach me **work.khushalsachdeva@gmail.com**
 
