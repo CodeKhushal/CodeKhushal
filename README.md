@@ -11,8 +11,6 @@
     </a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/khushal_25" target="_blank"><img src="https://img.shields.io/twitter/follow/khushal_25?logo=twitter&style=for-the-badge" alt="khushal_25" /></a> </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank"> 
