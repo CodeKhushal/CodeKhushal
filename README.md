@@ -2,8 +2,6 @@
 
 - 📫 How to reach me **work.khushalsachdeva@gmail.com**
 
-- ⚡ Fun fact **I like to play Table Tennis and roam around my city on my bicycle in my free time**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/khushalsachdeva/" target="_blank">
@@ -63,14 +61,14 @@
     </a> 
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codekhushal" alt="codekhushal" /></a> </p>
+<!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codekhushal" alt="codekhushal" /></a> </p> -->
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codekhushal&show_icons=true&locale=en&layout=compact" alt="codekhushal" />
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codekhushal&show_icons=true&locale=en&layout=compact" alt="codekhushal" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=codekhushal&show_icons=true&locale=en" alt="codekhushal" />
 </p>
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codekhushal" alt="codekhushal" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codekhushal" alt="codekhushal" /></p>
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=CodeKhushal&label=Profile%20views&color=129e00&style=plastic" alt="CodeKhushal" />
