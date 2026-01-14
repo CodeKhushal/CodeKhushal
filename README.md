@@ -38,7 +38,7 @@ fields_of_interests:
 technical_background:
   [
     "Full Stack Developer (Apprenticeship) @Skillvalley"
-    "WebDeveloperandTechnicalHead @Tech-a-Thon, CS Society of ARSD",
+    "Web Developer and Technical Head @Tech-a-Thon, CS Society of ARSD",
   ]
   
 currently_learning: ["Docker, Kubernetes, Agentic AI and React Native"]
